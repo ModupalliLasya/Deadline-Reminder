@@ -6,6 +6,6 @@ A simple and effective web application designed for college and university stude
 ✅ User-Friendly Interface – Easily add and manage assignments.
 ✅ Reliable Notifications – Ensures you stay on track with your academic schedule.
 ✅ Lightweight & Efficient – No clutter, just what you need to meet deadlines.
-![Uploading Screenshot 2025-02-13 184502.png…]()
+![Screenshot 2025-02-13 184502](https://github.com/user-attachments/assets/a2755912-90d3-458d-b4df-70f52140cb8c)
 
 🔔 Stay organized, reduce last-minute stress, and submit assignments on time! 🎯
